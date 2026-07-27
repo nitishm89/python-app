@@ -2,7 +2,7 @@ replicaCount: 1
 image:
   repository: nitish2303/python-app
   pullPolicy: IfNotPresent
-  tag: v1
+  tag: 2bf27c
 imagePullSecrets: []
 nameOverride: ""
 fullnameOverride: ""
